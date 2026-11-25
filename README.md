@@ -3,9 +3,8 @@
 React + FastAPI + SQLite + LiteLLM (Gemini). Multi-turn chat that survives failing API keys and caches repeated prompts.
 
 ## 1. Live URLs
-- Frontend: `TODO – add after deploy`
-- Backend: `TODO – add after deploy` (`/health` to check)
-- Demo video: `TODO`
+- Frontend: https://llm-chatbot-wheat.vercel.app
+- Backend: https://suryansh-llm-chatbot-api.fly.dev
 
 ## 2. Run locally
 
